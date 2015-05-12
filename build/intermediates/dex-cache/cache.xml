@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-2ee71fd92f93788ba8f51e264218dd8b3dd0571c.jar" />
+    </item>
+    <item
+        jar="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b0fb927b680e244106145d6ecc59e4ae21c7e5d">
+        <dex dex="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/pre-dexed/debug/classes-bd1d3f5b2fcdda8974e9c7ce148c02dac2ac3d77.jar" />
+    </item>
+    <item
+        jar="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/pre-dexed/debug/classes-141b32d64e659be80daaa1bca9387c3363d4b241.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORK/android-sdk/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-e83d89f730c18e8dcc462fa6c12347ff2611725e.jar" />
+    </item>
+    <item
+        jar="/Users/anhmantk/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-348b7defd583cad8bf567f41785cb8f42a64acc8.jar" />
+    </item>
+    <item
+        jar="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/anhmantk/AndroidStudioProjects/FB/app/build/intermediates/pre-dexed/debug/classes-728dc9fac4e186dff30afc20cb2383b8b578a7a1.jar" />
+    </item>
+
+</items>
